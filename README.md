@@ -1,2 +1,2 @@
-# SortingAlgorithmes
-coding down some famous sorting algorithmes
+# SortingAlgorithms
+coding down some famous sorting algorithms
